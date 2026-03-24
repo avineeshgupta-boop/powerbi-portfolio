@@ -13,7 +13,12 @@ I create interactive dashboards and reports using real-world datasets.
 * Sales analysis
 * Customer insights
 * Delivery performance
+## 📸 Dashboard Preview
 
+![Dashboard](Screenshot20_Assignment10.png)
+![Dashboard](Screenshot21_Assignment10.png)
+![Dashboard](Screenshot22_Assignment10.png)
+![Dashboard](Screenshot23_Assignment10.png)
 (More projects coming soon...)
 
 ## 🛠️ Skills
