@@ -30,3 +30,6 @@ I create interactive dashboards and reports using real-world datasets.
 ## 📬 Contact
 
 * LinkedIn: www.linkedin.com/in/avineesh-gupta-data-analyst
+## ⚠️ Disclaimer
+This project is created by [Avineesh Gupta] for portfolio purposes.  
+Unauthorized use or reproduction is not permitted.
